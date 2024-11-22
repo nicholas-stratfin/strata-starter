@@ -74,7 +74,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/hero2.svg",
+        "url": "/images/icon3.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
