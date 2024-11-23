@@ -74,9 +74,11 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/icon3.svg",
+        "url": "/images/10.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
+        "width": "200",  
+        "height": "auto",  
         "styles": {
             "self": {
                 "borderRadius": "medium"
