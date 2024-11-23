@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Learn foundational business knowledge about the companies you own
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
+      A StrataFinance Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:

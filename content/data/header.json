@@ -74,16 +74,14 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/10.png",
+        "url": "/images/Strata_Finance.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
-        "width": "200",  
-        "height": "auto",  
         "styles": {
             "self": {
                 "borderRadius": "medium",
-                "width": "200px",  // or whatever size you want
-                "height": "auto"   // maintains aspect ratio
+                "width": "200px", 
+                "height": "auto"  
             }
         }
     },
