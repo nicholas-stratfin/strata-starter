@@ -81,7 +81,9 @@
         "height": "auto",  
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "width": "200px",  // or whatever size you want
+                "height": "auto"   // maintains aspect ratio
             }
         }
     },
